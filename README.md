@@ -1,3 +1,3 @@
 Mechatronics Engineer and Junior Robotics Engineer at IITM HTIC MedTech Incubator with experience spanning robotics research, robotic system deployment, electromechanical integration, and ROS-based automation. Previously worked on advanced robotics research at CAIR, IIT Mandi, focusing on vision-guided manipulation, real-time object detection, robotic arm control pipelines, and perception-driven automation systems.
 
-Skilled in bridging hardware–software workflows across research and field deployments, including ROS2-based robotic systems, industrial robot arm testing, sensor calibration, pneumatic circuit design, and real-time control integration. Hands-on expertise in electromechanical assembly, wiring, soldering, troubleshooting electrical systems, and deploying reliable robotic solutions in practical environments. Experienced in computer vision, robotic perception, system integration, and end-to-end robotics development from prototyping to deployment.
+
